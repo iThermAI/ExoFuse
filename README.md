@@ -1,14 +1,14 @@
-# ExoFuse: AI-Driven Smart Energy Efficient Vacuum Infusion in Green Manufacturing
+# ExoFuse: Agent-Driven Smart Energy Efficient Vacuum Infusion in Green Manufacturing
 
 ## Overview
 
-ExoFuse is an innovative project that revolutionizes the Vacuum Infusion Process (VIP) for composite manufacturing by integrating AI-driven technology with self-heating exothermic reactions. This project focuses on reducing energy consumption, increasing efficiency, and promoting sustainability within the composites manufacturing industry. By replacing traditional external heating methods with a self-heating curing process, ExoFuse aims to streamline production, cut costs, and reduce carbon emissions.
+ExoFuse is an innovative project that revolutionizes the Vacuum Infusion Process (VIP) for composite manufacturing by integrating Agent-driven technology with self-heating exothermic reactions. This project focuses on reducing energy consumption, increasing efficiency, and promoting sustainability within the composites manufacturing industry. By replacing traditional external heating methods with a self-heating curing process, ExoFuse aims to streamline production, cut costs, and reduce carbon emissions.
 
 ## Key Features
 
 - **Self-Healing Exothermic Reaction**: The core of ExoFuse lies in its ability to utilize an exothermic reaction for curing composite materials. This approach eliminates the need for external heat sources, resulting in up to 90% energy savings.
   
-- **AI-Powered Temperature Control**: ExoFuse integrates advanced AI algorithms to monitor and control the curing process in real-time. This ensures optimal temperature conditions, preventing defects and inconsistencies in the final product.
+- **Agent-Powered Temperature Control**: ExoFuse integrates advanced algorithms to monitor and control the curing process in real-time. This ensures optimal temperature conditions, preventing defects and inconsistencies in the final product.
   
 - **Green Manufacturing**: The project emphasizes sustainable manufacturing practices by reducing energy consumption and minimizing carbon emissions. The self-heating process also allows for the production of larger composite parts without the limitations imposed by traditional oven-based methods.
   
@@ -28,9 +28,9 @@ ExoFuse is an innovative project that revolutionizes the Vacuum Infusion Process
   
 - **Cost Reduction**: Lowers production costs by eliminating the need for expensive heating equipment and reducing energy consumption.
   
-- **Improved Product Quality**: AI-driven monitoring ensures precise control over the curing process, resulting in higher quality composite parts with fewer defects.
+- **Improved Product Quality**: Agent-driven monitoring ensures precise control over the curing process, resulting in higher quality composite parts with fewer defects.
   
-- **Manufacturing Flexibility**: The elimination of large ovens allows for greater flexibility in the size and shape of parts that can be manufactured, enabling the use of advanced materials like carbon fiber.
+- **Manufacturing Flexibility**: The elimination of large ovens allows for greater flexibility in the size and shape of parts that can be manufactured, enabling the use of  materials like carbon fiber.
 
 ## Installation and Usage
 
@@ -131,8 +131,8 @@ This dashboard allows users to easily visualize and monitor the critical aspects
 ## Contributors
 
 - **TRYGONS SA**: Lead manufacturing partner specializing in composite parts production for the marine and automotive sectors.
-- **iThermAI B.V.**: Technology partner providing expertise in AI-driven thermal monitoring and control systems.
+- **iThermAgent B.V.**: Technology partner providing expertise in Agent-driven thermal monitoring and control systems.
 
 ## Acknowledgments
 
-ExoFuse is a collaborative effort that brings together expertise in AI, composites manufacturing, and sustainable technology. We thank our partners and contributors for their valuable support in making this project a reality.
+ExoFuse is a collaborative effort that brings together expertise in Agent, composites manufacturing, and sustainable technology. We thank our partners and contributors for their valuable support in making this project a reality.
