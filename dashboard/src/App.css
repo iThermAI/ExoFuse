@@ -1,0 +1,18 @@
+.main-content {
+  /* This assumes that your sidebar is 250px wide */
+  background-color: white;
+  /* justify-content: center; */
+  border-radius: 10px;
+  margin: 10px;
+  width: auto;
+  /* height: calc(100vh - 130px);
+  min-height: 330px; */
+  min-width: 400;
+}
+body {
+  background-color: rgb(
+    62,
+    63,
+    62
+  ); /* Example blue color; replace with your desired shade */
+}

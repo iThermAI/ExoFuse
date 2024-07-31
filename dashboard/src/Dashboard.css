@@ -1,0 +1,124 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2vh 2vw;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.left-column,
+.right-column {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  height: 100%;
+}
+
+.dashboard-section {
+  background-color: transparent;
+  margin-bottom: 2vh;
+  display: flex;
+  justify-content: center; /* Adjust alignment */
+  align-items: center; /* Center items vertically */
+  flex-wrap: wrap; /* Allow items to wrap if needed */
+}
+
+.stream {
+  height: 42vh;
+  width: auto;
+  border-radius: 2%;
+  background-color: transparent;
+  /* max-height: 35vh; Ensures the images don't take up too much vertical space */
+}
+
+.chart-placeholder {
+  width: 100%;
+  height: 40vh; /*Relative height to fit within the column */
+  background-color: transparent;
+  margin-top: 4vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.operator-section {
+  display: flex; /* Use flex layout */
+  justify-content: space-between; /* Space between logo and right elements */
+  align-items: center; /* Center items vertically */
+  width: 100%; /* Full width */
+  box-sizing: border-box;
+}
+
+.message-placeholder {
+  background-color: rgb(85, 224, 217);
+  padding: 1.5vh 1.5vw;
+  border-radius: 5px;
+  font-size: 1.8vh;
+  font-weight: 500;
+  margin-bottom: 1vh;
+  margin-right: 10px; /* Adjust the value as needed */
+}
+.message-placeholder-off {
+  background-color: #f8f9fa;
+  padding: 1.5vh 1.5vw;
+  border-radius: 5px;
+  font-size: 1.8vh;
+  margin-bottom: 1vh;
+  font-weight: 500;
+
+  margin-right: 10px; /* Adjust the value as needed */
+  color: black;
+}
+
+.reset-button {
+  padding: 1vh 2vw;
+  font-size: 1.6vh;
+  font-weight: 500;
+  color: white;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.reset-button:hover {
+  background-color: #ce3c37;
+}
+
+.right-elements {
+  display: flex; /* Keep align message and button side by side */
+  align-items: center; /* Ensure items are centered vertically */
+  /* Add any additional styling here */
+}
+
+.column-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 80vh; /* Changed from height to min-height */
+  flex-wrap: wrap; /* Allow the container to wrap its children */
+  overflow: auto;
+  padding: 2vh 1vw;
+}
+
+.header {
+  border: 1px solid #ccc;
+  padding: 2vh 2vw;
+  border-radius: 5px;
+}
+
+@keyframes blinkAnimation {
+  0%,
+  100% {
+    background-color: #f8f9fa;
+  }
+  50% {
+    background-color: rgb(238, 139, 46);
+  }
+}
+
+.message-placeholder-off {
+  animation: blinkAnimation 2s infinite;
+}
